@@ -37,7 +37,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://youtu.be/sNGdDGgR2fc' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[https://youtu.be/sNGdDGgR2fc](https://youtu.be/sNGdDGgR2fc)
 
 Video created with Windows Screen Recorder
 

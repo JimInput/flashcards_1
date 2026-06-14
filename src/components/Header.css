@@ -1,0 +1,52 @@
+/* body {
+    background-color: rgb(230, 245, 255);
+    background-size: 120px 120px;
+    background-image: linear-gradient(
+        -45deg,
+        rgb(var(--primary-stripe-rgb)) 25%,
+        rgb(var(--secondary-stripe-rgb)) 25%,
+        rgb(var(--secondary-stripe-rgb)) 50%,
+        rgb(var(--primary-stripe-rgb)) 50%,
+        rgb(var(--primary-stripe-rgb)) 75%,
+        rgb(var(--secondary-stripe-rgb)) 75%,
+        rgb(var(--secondary-stripe-rgb)) 100%
+    );
+    animation: pan 20s linear infinite;
+}
+
+@keyframes pan {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: -240px 0;
+    }
+} */
+
+.header {
+    /* background-size: 5px 5px;
+    background-image: linear-gradient(
+        -45deg,
+        #4a4a4a 25%,
+        #6b6b6b 25%,
+        #6b6b6b 50%,
+        #4a4a4a 50%,
+        #4a4a4a 75%,
+        #6b6b6b 75%,
+        #6b6b6b 100%
+    ); */
+    background-color: #4a4a4a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border: 5px solid black;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+h3, h4, h5 {
+    margin: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}

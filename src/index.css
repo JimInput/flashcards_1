@@ -1,0 +1,29 @@
+:root {
+    --primary-stripe-rgb: 76, 140, 66;
+    --secondary-stripe-rgb: 124, 184, 92;
+}
+
+body {
+    background-color: rgb(76, 140, 66);
+    background-size: 500px 500px;
+    /* background-image: linear-gradient(
+        -45deg,
+        rgb(var(--primary-stripe-rgb)) 25%,
+        rgb(var(--secondary-stripe-rgb)) 25%,
+        rgb(var(--secondary-stripe-rgb)) 50%,
+        rgb(var(--primary-stripe-rgb)) 50%,
+        rgb(var(--primary-stripe-rgb)) 75%,
+        rgb(var(--secondary-stripe-rgb)) 75%,
+        rgb(var(--secondary-stripe-rgb)) 100%
+    ); */
+    /* animation: pan 60s linear infinite; */
+}
+
+@keyframes pan {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: -240px 0;
+    }
+}

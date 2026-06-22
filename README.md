@@ -45,7 +45,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[https://youtu.be/sNGdDGgR2fc](https://youtu.be/sNGdDGgR2fc)
+[https://youtu.be/SkvqW0F9eFQ](https://youtu.be/SkvqW0F9eFQ)
 
 Video created with Windows Screen Recorder
 

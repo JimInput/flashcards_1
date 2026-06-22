@@ -1,60 +1,60 @@
 [
   {
-    "question": "A 2 kg block is pushed across a frictionless surface with a constant force of 10 N. What is its acceleration?",
+    "question": "1. A 2 kg block is pushed across a frictionless surface with a constant force of 10 N. What is its acceleration?",
     "answer": "5 m/s^2",
     "image": "src/assets/block_prob.png",
     "difficulty": "easy"
   },
   {
-    "question": "A car travels around a circular track of radius 50 m at a constant speed of 20 m/s. What is its centripetal acceleration?",
+    "question": "2. A car travels around a circular track of radius 50 m at a constant speed of 20 m/s. What is its centripetal acceleration?",
     "answer": "8 m/s^2",
     "image": "/src/assets/car.png",
     "difficulty": "medium"
   },
   {
-    "question": "A 5 kg object is lifted vertically 3 m at constant speed. How much work is done by gravity?",
+    "question": "3. A 5 kg object is lifted vertically 3 m at constant speed. How much work is done by gravity?",
     "answer": "-147 J",
     "image": "",
     "difficulty": "easy"
   },
   {
-    "question": "A spring has a force constant k = 200 N/m. How much potential energy is stored when it is compressed 0.1 m?",
+    "question": "4. A spring has a force constant k = 200 N/m. How much potential energy is stored when it is compressed 0.1 m?",
     "answer": "1 J",
     "image": "",
     "difficulty": "easy"
   },
   {
-    "question": "A 1500 kg car accelerates from rest to 30 m/s in 10 s. What is the average power output if the car’s engine provides the net work?",
+    "question": "5. A 1500 kg car accelerates from rest to 30 m/s in 10 s. What is the average power output if the car’s engine provides the net work?",
     "answer": "67,500 W",
     "image": "",
     "difficulty": "medium"
   },
   {
-    "question": "A 0.5 kg ball is thrown upward with an initial speed of 20 m/s. What is its maximum height?",
+    "question": "6. A 0.5 kg ball is thrown upward with an initial speed of 20 m/s. What is its maximum height?",
     "answer": "20.4 m",
     "image": "",
     "difficulty": "medium"
   },
   {
-    "question": "A 10 N horizontal force acts on a 4 kg block on a surface with kinetic friction coefficient 0.2. What is the acceleration?",
+    "question": "7. A 10 N horizontal force acts on a 4 kg block on a surface with kinetic friction coefficient 0.2. What is the acceleration?",
     "answer": "1 m/s^2",
     "image": "",
     "difficulty": "medium"
   },
   {
-    "question": "A 3 kg object moves in a straight line with velocity v(t) = 4t^2. What is the net force at t = 2 s?",
+    "question": "8. A 3 kg object moves in a straight line with velocity v(t) = 4t^2. What is the net force at t = 2 s?",
     "answer": "48 N",
     "image": "",
     "difficulty": "hard"
   },
   {
-    "question": "A 2 kg mass attached to a string moves in a circle of radius 1.5 m with period 2 s. What is the tension in the string?",
+    "question": "9. A 2 kg mass attached to a string moves in a circle of radius 1.5 m with period 2 s. What is the tension in the string?",
     "answer": "52.7 N",
     "image": "/src/assets/ball.png",
     "difficulty": "hard"
   },
   {
-    "question": "A 60 W lamp is turned on for 5 minutes. How much electrical energy does it consume?",
+    "question": "10. A 60 W lamp is turned on for 5 minutes. How much electrical energy does it consume?",
     "answer": "18,000 J",
     "image": "",
     "difficulty": "easy"

@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="center">
       <Header title="Physics Study Cards" description="A set of cards for you to study Physics!" num={physicsQuestions.length}/>
-      <Flashcard/>
+      <Flashcard cards={physicsQuestions}/>
     </div>
   )
 }
